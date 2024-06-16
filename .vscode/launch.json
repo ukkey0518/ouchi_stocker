@@ -2,21 +2,30 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "ouchi_stocker",
-            "request": "launch",
-            "type": "dart"
-        },
-        {
-            "name": "ouchi_stocker (profile mode)",
+            "name": "Debug",
             "request": "launch",
             "type": "dart",
-            "flutterMode": "profile"
+            "args": [
+                "-v"
+            ]
         },
         {
-            "name": "ouchi_stocker (release mode)",
+            "name": "Profile",
             "request": "launch",
             "type": "dart",
-            "flutterMode": "release"
+            "flutterMode": "profile",
+            "args": [
+                "-v"
+            ]
+        },
+        {
+            "name": "Release",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release",
+            "args": [
+                "-v"
+            ]
         }
     ]
 }
