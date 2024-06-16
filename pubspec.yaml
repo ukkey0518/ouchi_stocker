@@ -1,0 +1,16 @@
+name: ouchi_stocker
+description: "A new Flutter project."
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment: { sdk: ^3.4.4 }
+
+dependencies:
+  flutter: {sdk: flutter}
+
+dev_dependencies:
+  flutter_test: {sdk: flutter}
+
+flutter:
+  uses-material-design: true
