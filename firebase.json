@@ -1,6 +1,1 @@
-{
-  "firestore": {
-    "rules": "firestore.rules",
-    "indexes": "firestore.indexes.json"
-  }
-}
+{"firestore":{"rules":"firestore.rules","indexes":"firestore.indexes.json"},"flutter":{"platforms":{"android":{"default":{"projectId":"ouchi-stocker","appId":"1:593758522061:android:007eba8ec92079a0883784","fileOutput":"android/app/google-services.json"}},"ios":{"default":{"projectId":"ouchi-stocker","appId":"1:593758522061:ios:3b64527665b02e53883784","uploadDebugSymbols":false,"fileOutput":"ios/Runner/GoogleService-Info.plist"}},"dart":{"lib/firebase_options.dart":{"projectId":"ouchi-stocker","configurations":{"android":"1:593758522061:android:007eba8ec92079a0883784","ios":"1:593758522061:ios:3b64527665b02e53883784","web":"1:593758522061:web:8ad385dd335066f1883784"}}}}}}

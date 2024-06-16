@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "593758522061",
+    "project_id": "ouchi-stocker",
+    "storage_bucket": "ouchi-stocker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593758522061:android:007eba8ec92079a0883784",
+        "android_client_info": {
+          "package_name": "com.ukihome.ouchi_stocker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVxGSZB5G4KNfg_yEc5oVhQVg5a1UA9m4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
