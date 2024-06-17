@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:ouchi_stocker/constants/theme.dart';
-
 import 'package:ouchi_stocker/view/screens/home/home_screen.dart';
 
 class App extends StatelessWidget {
